@@ -1,2 +1,2 @@
-0 Bottle
-1 Candle
+0 Black cat
+1 Brown cat
